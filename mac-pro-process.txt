@@ -1,0 +1,10 @@
+PROCESS-NAME,Workplace Chat
+PROCESS-NAME,Google Drive
+PROCESS-NAME,Telegram
+PROCESS-NAME,CurseForge
+PROCESS-NAME,CurseForge Helper
+PROCESS-NAME,Curse.Agent.Host
+PROCESS-NAME,Wow
+PROCESS-NAME,Agent
+PROCESS-NAME,Battle.net
+PROCESS-NAME,Battle.net Helper
