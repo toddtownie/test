@@ -1,4 +1,5 @@
 PROCESS-NAME,WeChat
+PROCESS-NAME,Mail 
 PROCESS-NAME,Microsoft Word
 PROCESS-NAME,Microsoft Excel
 PROCESS-NAME,Microsoft PowerPoint
