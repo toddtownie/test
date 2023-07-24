@@ -8,3 +8,4 @@ PROCESS-NAME,Wow
 PROCESS-NAME,Agent
 PROCESS-NAME,Battle.net
 PROCESS-NAME,Battle.net Helper
+PROCESS-NAME,World of Warcraft
