@@ -4,6 +4,7 @@ PROCESS-NAME,Microsoft Word
 PROCESS-NAME,Microsoft Excel
 PROCESS-NAME,Microsoft PowerPoint
 PROCESS-NAME,NeteaseMusic
+PROCESS-NAME,Sublime Text
 
 PROCESS-NAME,v2ray
 PROCESS-NAME,xray
