@@ -1,14 +1,15 @@
-PROCESS-NAME,Workplace Chat
-PROCESS-NAME,Google Drive
-PROCESS-NAME,Telegram
-PROCESS-NAME,Sublime Text
-PROCESS-NAME,Visual Studio Code
-PROCESS-NAME,CurseForge
-PROCESS-NAME,CurseForge Helper
-PROCESS-NAME,Curse.Agent.Host
-PROCESS-NAME,Wow
 PROCESS-NAME,Agent
 PROCESS-NAME,Battle.net
 PROCESS-NAME,Battle.net Helper
+PROCESS-NAME,CurseForge
+PROCESS-NAME,CurseForge Helper
+PROCESS-NAME,Curse.Agent.Host
+PROCESS-NAME,Discord
+PROCESS-NAME,Google Drive
+PROCESS-NAME,Sublime Text
+PROCESS-NAME,Telegram
+PROCESS-NAME,Visual Studio Code
+PROCESS-NAME,Workplace Chat
 PROCESS-NAME,World of Warcraft
 PROCESS-NAME,World of Warcraft Classic
+PROCESS-NAME,Wow
