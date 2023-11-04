@@ -6,6 +6,9 @@ PROCESS-NAME,Microsoft PowerPoint
 PROCESS-NAME,NeteaseMusic
 PROCESS-NAME,App Store
 PROCESS-NAME,Weather
+PROCESS-NAME,WeatherWidget
+PROCESS-NAME,Stocks
+PROCESS-NAME,StocksWidget
 
 PROCESS-NAME,v2ray
 PROCESS-NAME,xray
